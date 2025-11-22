@@ -42,7 +42,7 @@ Shopee does not provide clear, timely system feedback, leading to uncertainty an
 Promotions shown to users often cannot be redeemed or are misleading.  
 This breaks user expectation and reduces trust in the platform.
 
-![issue_voucher_complaint.](screenshots/screenshots/issue_voucher_complaint.png
+![issue_voucher_complaint.](screenshots/screenshots/oucher_disappointment.jpg)
 
 ---
 
@@ -50,7 +50,7 @@ This breaks user expectation and reduces trust in the platform.
 **Heuristic Violated:** Consistency and Standards  
 Shopee's new layout resembles TikTok's UI, which confuses users and breaks expected e-commerce navigation flow.
 
-![TikTok Layout](screenshots/screenshots/tiktok_layout_complaint.png)
+![TikTok Layout](screenshots/screenshots/tiktok_layout_complaint.jpg)
 
 ---
 
@@ -58,5 +58,5 @@ Shopee's new layout resembles TikTok's UI, which confuses users and breaks expec
 **Heuristic Violated:** Aesthetic and Minimalist Design  
 Homepage is overloaded with ads and busy elements, reducing usability and overwhelming users visually.
 
-![Homepage Clutter](screenshots/screenshots/homepage_clutter.png)
+![Homepage Clutter](screenshots/screenshots/homepage_clutter.jpg)
  

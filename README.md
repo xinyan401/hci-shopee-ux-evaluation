@@ -21,9 +21,42 @@ The evaluation covers:
 - Industry research & citation writing  
 - Improvements proposal  
 - Analytical writing  
-- Problem–solution documentation  
-### Delivery Delay & Poor Courier Service
-User complaints show that Shopee frequently experiences long delivery delays, slow courier response, and unhelpful customer support. This violates the heuristic **“Visibility of System Status”** because users are not given timely updates or accurate tracking information.
+- Problem–solution documentation
+ ## 🖼 Screenshots from Evaluation
+
+Below are the key user complaints and interface issues identified during the heuristic evaluation of Shopee’s UI/UX design. Each screenshot illustrates a real user pain point, mapped to Nielsen’s usability principles.
+
+---
+
+### 🔹 1. Delivery Delay & Poor Courier Service
+**Heuristic Violated:** Visibility of System Status and  User Control and Freedom
+Users report extremely slow delivery updates and poor courier communication.  
+Shopee does not provide clear, timely system feedback, leading to uncertainty and frustration.
+
+![Delivery Delay](screenshots/screenshots/delivery_delay_review.png)
+
+---
+
+### 🔹 2. Voucher Disappointment / Unfair Rewards  
+**Heuristic Violated:** Match Between System and Real World  
+Promotions shown to users often cannot be redeemed or are misleading.  
+This breaks user expectation and reduces trust in the platform.
 
 ![issue_voucher_complaint.](screenshots/screenshots/issue_voucher_complaint.png
-)
+
+---
+
+### 🔹 3. TikTok-style Layout Confusion  
+**Heuristic Violated:** Consistency and Standards  
+Shopee's new layout resembles TikTok's UI, which confuses users and breaks expected e-commerce navigation flow.
+
+![TikTok Layout](screenshots/screenshots/tiktok_layout_complaint.png)
+
+---
+
+### 🔹 4. Homepage UI Clutter / Too Many Ads  
+**Heuristic Violated:** Aesthetic and Minimalist Design  
+Homepage is overloaded with ads and busy elements, reducing usability and overwhelming users visually.
+
+![Homepage Clutter](screenshots/screenshots/homepage_clutter.png)
+ 

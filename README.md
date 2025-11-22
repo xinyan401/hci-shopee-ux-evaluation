@@ -42,7 +42,7 @@ Shopee does not provide clear, timely system feedback, leading to uncertainty an
 Promotions shown to users often cannot be redeemed or are misleading.  
 This breaks user expectation and reduces trust in the platform.
 
-![issue_voucher_complaint.](screenshots/screenshots/oucher_disappointment.jpg)
+![issue_voucher_complaint.](screenshots/screenshots/voucher_disappointment.jpg)
 
 ---
 

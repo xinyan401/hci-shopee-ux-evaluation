@@ -33,7 +33,7 @@ Below are the key user complaints and interface issues identified during the heu
 Users report extremely slow delivery updates and poor courier communication.  
 Shopee does not provide clear, timely system feedback, leading to uncertainty and frustration.
 
-![Delivery Delay](screenshots/screenshots/delivery_delay_review.png)
+![Delivery Delay](screenshots/screenshots/delivery_delay_review.jpg)
 
 ---
 

@@ -25,4 +25,5 @@ The evaluation covers:
 ### Delivery Delay & Poor Courier Service
 User complaints show that Shopee frequently experiences long delivery delays, slow courier response, and unhelpful customer support. This violates the heuristic **“Visibility of System Status”** because users are not given timely updates or accurate tracking information.
 
-![Delivery Delay Review](screenshots/delivery_delay_review.png)
+![issue_voucher_complaint.](screenshots/screenshots/issue_voucher_complaint.png
+)

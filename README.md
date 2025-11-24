@@ -33,7 +33,7 @@ Below are the key user complaints and interface issues identified during the heu
 Users report extremely slow delivery updates and poor courier communication.  
 Shopee does not provide clear, timely system feedback, leading to uncertainty and frustration.
 
-![Delivery Delay](delivery_delay_review.jpg)
+![Delivery Delay](delivery_delay_review.png)
 
 ---
 
@@ -42,7 +42,7 @@ Shopee does not provide clear, timely system feedback, leading to uncertainty an
 Promotions shown to users often cannot be redeemed or are misleading.  
 This breaks user expectation and reduces trust in the platform.
 
-![issue_voucher_complaint.](screenshots/screenshots/voucher_disappointment.jpg)
+![issue_voucher_complaint.](voucher_disappointment.jpg)
 
 ---
 

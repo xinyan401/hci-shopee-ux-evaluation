@@ -50,7 +50,7 @@ This breaks user expectation and reduces trust in the platform.
 **Heuristic Violated:** Consistency and Standards  
 Shopee's new layout resembles TikTok's UI, which confuses users and breaks expected e-commerce navigation flow.
 
-![TikTok Layout](screenshots/screenshots/tiktok_layout_complaint.jpg)
+![TikTok Layout](tiktok_layout_complaint.jpg)
 
 ---
 
@@ -58,5 +58,5 @@ Shopee's new layout resembles TikTok's UI, which confuses users and breaks expec
 **Heuristic Violated:** Aesthetic and Minimalist Design  
 Homepage is overloaded with ads and busy elements, reducing usability and overwhelming users visually.
 
-![Homepage Clutter](screenshots/screenshots/homepage_clutter.jpg)
+![Homepage Clutter](homepage_clutter.jpg)
  
